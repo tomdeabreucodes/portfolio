@@ -33,7 +33,6 @@ While a small percentage of speedrunners are dedicated content creators, the maj
 
 ## Design, Content & Layout
 The design of each dash is created in an elaborate D3.js layout. The content of the dash is dynamically generated from the initial LiveSplit file upload and can then be further edited in real time using edit mode.
-![Settings pane](img/Settings.gif)
 
 A key design choice I made is that the dash is rendered as an SVG in the browser window and is only converted to a PNG at the time of download. This enabled the fields to be highly responsive right up until the download button is pressed, giving everything a highly dynamic feel, while also looking exactly as it would appear in the static PNG file which would appear in your downloads.
 
