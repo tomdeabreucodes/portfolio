@@ -5,4 +5,8 @@ tags = ['Python', 'API', 'Django', 'Marketing', "HTMX", "Alpine.js"]
 draft = false
 +++
 
-## The goal
+## Link
+
+https://www.yorefer.com/
+
+🚧 Post under construction 🚧
