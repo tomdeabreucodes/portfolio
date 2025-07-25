@@ -1,0 +1,1 @@
+Support Engineer @ Palantir | Indie Hacker

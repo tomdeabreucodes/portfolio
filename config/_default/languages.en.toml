@@ -1,0 +1,22 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Tom DeAbreu | Portfolio"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+# logo = "Subpixel.JPEG"
+
+["params.author"]
+name = "Tom DeAbreu"
+image = "img/Tom_photo.jpg"
+
+   links = [
+     { email = "mailto:tom@subpixelsoftware.com" },
+     { bluesky = "https://bsky.app/profile/subpixelsoftware.bsky.social" },
+     { github = "https://github.com/tomdeabreucodes" },
+   ]
