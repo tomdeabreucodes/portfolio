@@ -1,1 +1,1 @@
-Support Engineer @ CircleCI | Indie Hacker
+Staff Support Engineer @ CircleCI | Indie Hacker
