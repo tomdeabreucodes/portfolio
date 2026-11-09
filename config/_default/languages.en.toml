@@ -17,6 +17,5 @@ image = "img/Tom_photo.jpg"
 
    links = [
      { email = "mailto:tom@subpixelsoftware.com" },
-     { bluesky = "https://bsky.app/profile/subpixelsoftware.bsky.social" },
      { github = "https://github.com/tomdeabreucodes" },
    ]
