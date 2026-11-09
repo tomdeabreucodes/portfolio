@@ -1,1 +1,1 @@
-Support Engineer @ Palantir | Indie Hacker
+Support Engineer @ CircleCI | Indie Hacker
